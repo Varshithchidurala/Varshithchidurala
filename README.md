@@ -1,6 +1,7 @@
 # Hi, I'm Varshith Chidurala 👋
 
 AI/ML Engineer ·  Full Stack Python Developer · Data Analyst
+
 B.Tech graduate from AIML 
 
 I build applied ML systems and full-stack tools — from resume intelligence platforms to conversation analytics engines. Currently looking for opportunities in **AI/ML Engineering, Python Development, or Data Analysis.**
