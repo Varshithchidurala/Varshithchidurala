@@ -1,7 +1,7 @@
 # Hi, I'm Varshith Chidurala 👋
 
-AI/ML Engineer · Python Developer · Data Analyst
-B.Tech CSE (AI & ML) graduate from Hyderabad, India
+AI/ML Engineer ·  Full Stack Python Developer · Data Analyst
+B.Tech graduate from AIML 
 
 I build applied ML systems and full-stack tools — from resume intelligence platforms to conversation analytics engines. Currently looking for opportunities in **AI/ML Engineering, Python Development, or Data Analysis.**
 
@@ -28,13 +28,13 @@ A system for analyzing and extracting intelligence from conversations using NLP 
 
 ### 📫 Connect with me
 
-[
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/varshithch)
-[
+(https://www.linkedin.com/in/varshithch)
+
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
 
-](mailto:varshithchidurala@gmail.com)
+(mailto:varshithchidurala@gmail.com)
